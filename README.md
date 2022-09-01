@@ -46,7 +46,7 @@ This repository contains a data collection routine and front-end to monitor and 
 
 ### API Keys and Environment Variables
 
-When setting up an app and project within the Developer Portal, a number of API keys/tokens will be made available. These should be noted down and stored as environment variables. The environment variables should be set using the following convention (Windows):
+When setting up an app and project within the Developer Portal, a number of API keys/tokens will be made available. These should be noted down and set as environment variables. The environment variables should be set using the following convention (Windows):
 
     set TWITTER_CONSUMER_KEY='<Insert your consumer API key>'
     set TWITTER_CONSUMER_SECRET='<Insert your consumer API secret>'
